@@ -64,5 +64,100 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Preview is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio; backed by sequoia-capital) and added to the network as a stub for full-pipeline profiling.
-- https://preview.io/
+Preview provides an AI‑powered video production platform that lets teams storyboard, generate, and direct creative projects in a collaborative, real‑time workspace. Users can import scripts, break them into scenes, characters, and locations, and leverage AI models to generate visuals, B‑roll, and edits. The platform tracks provenance of each frame, supports versioning, and offers enterprise‑grade security with SOC 2 Type II and ISO 27001 compliance. Pricing is transparent, and extensive documentation and support resources are available.
+
+**Areas:** Company · AI · Video · Collaboration · Production
+
+## Preview on APIs.io
+
+Everything profiled for Preview is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/preview/](https://apis.io/providers/preview/)** — or go straight to one of the APIs or properties below.
+
+### APIs (2)
+
+- [Preview API](https://apis.io/apis/preview/preview-api-2/) — Preview provides AI‑powered video production APIs. Documentation is available at the developer portal.
+- [Preview API](https://apis.io/apis/preview/preview-api/) — Preview API as documented publicly: 1 operations. Contract generated from the documentation by API Evangelist (2026-10-29); not the provider's own document.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Preview API Rules](https://apis.io/rules/preview/preview-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Preview Domain Security](https://apis.io/security/preview/preview-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Preview Plans Pricing](https://apis.io/plans/preview/preview-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://preview.io/)
+- [Documentation](https://docs.preview.io/)
+- [Getting started](https://docs.preview.io/preview/getting-started)
+- [Pricing](https://preview.io/pricing)
+- [Support](https://preview.io/request-access)
+
+## API Evangelist rating
+
+**Kin Score 38.6** — thin · rubric 0.24.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 35.5 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 42.9 |
+| Access clarity | 29.5 |
+
+**Agent readiness 39.1** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 15.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/preview/](https://apis.io/providers/preview/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Preview: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/preview/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
